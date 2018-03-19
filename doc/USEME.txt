@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
 Micromon -- documentation
 Contact: Shajulin Benedict
-Email: benedict@in.tum.de
+Email: shajulin@iiitkottayam.ac.in, benedict@in.tum.de
 Year: 2016-2017
 Supported by: Prof. Dr. Michael Gerndt
 -------------------------------------------------------------------------------
